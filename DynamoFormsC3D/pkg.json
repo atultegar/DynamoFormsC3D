@@ -1,0 +1,20 @@
+{
+  "license": "",
+  "file_hash": null,
+  "name": "Dynamo Forms for Civil 3D",
+  "version": "0.1",
+  "description": "Custom WPF forms for Dynamo for Civil 3D",
+  "group": "",
+  "keywords": null,
+  "dependencies": [],
+  "contents": "",
+  "engine_version": "2.5.2.860",
+  "engine": "dynamo",
+  "engine_metadata": "",
+  "site_url": "",
+  "repository_url": "",
+  "contains_binaries": true,
+  "node_libraries": [
+    "DynamoForms.Forms, Version=0.1, Culture=neutral, PublicKeyToken=null"
+  ]
+}
